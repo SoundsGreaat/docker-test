@@ -1,0 +1,4 @@
+[mysqld]
+innodb_buffer_pool_size = 7737418240
+innodb_lru_scan_depth=256
+default_time_zone='+02:00'
